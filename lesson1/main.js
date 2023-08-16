@@ -24,7 +24,8 @@ console.log(typeof c, c);
 // - За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками. та вивести в консоль
 let personName = prompt("Please enter your name", `${firstName}`);
 let personMiddleName = prompt("Please enter your middle name", `${middleName}`);
-let personLastName = prompt("Please enter your last name", `${lastName}`);
+let age = 30;
+let personAge = +prompt("Please enter your last name", `${age}`);
 console.log(personName);
 console.log(personMiddleName);
-console.log(personLastName);
+console.log(personAge);
