@@ -25,7 +25,7 @@ console.log(typeof c, c);
 let personName = prompt("Please enter your name", `${firstName}`);
 let personMiddleName = prompt("Please enter your middle name", `${middleName}`);
 let age = 30;
-let personAge = +prompt("Please enter your last name", `${age}`);
+let personAge = +prompt("Please enter your age", `${age}`);
 console.log(personName);
 console.log(personMiddleName);
 console.log(personAge);
