@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="829a43f8-5289-412a-8455-1f6d1e2a861f" name="Changes" comment="complete homework lesson2 whith out two last tasks">
+    <list default="true" id="829a43f8-5289-412a-8455-1f6d1e2a861f" name="Changes" comment="complete homework lesson2">
+      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;live.edit.configurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -58,6 +59,16 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/june-2023-js/lesson3/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +83,11 @@
       <workItem from="1692173120024" duration="2217000" />
       <workItem from="1692182025583" duration="2400000" />
       <workItem from="1692427702722" duration="6578000" />
-      <workItem from="1692553213215" duration="1754000" />
+      <workItem from="1692553213215" duration="2137000" />
+      <workItem from="1692682151435" duration="1834000" />
+      <workItem from="1692806214241" duration="2368000" />
+      <workItem from="1693058633639" duration="4370000" />
+      <workItem from="1693063066136" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="complete homework lesson1">
       <option name="closed" value="true" />
@@ -106,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692433953532</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete homework lesson2">
+      <option name="closed" value="true" />
+      <created>1692556796056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692556796056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +139,8 @@
     <MESSAGE value="complete homework lesson1" />
     <MESSAGE value="complete homework lesson1 after checked mentor" />
     <MESSAGE value="complete homework lesson2 whith out two last tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete homework lesson2 whith out two last tasks" />
+    <MESSAGE value="complete homework lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete homework lesson2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
