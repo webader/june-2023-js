@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="829a43f8-5289-412a-8455-1f6d1e2a861f" name="Changes" comment="homework 8 complete">
-      <change afterPath="$PROJECT_DIR$/lesson9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9/style.css" afterDir="false" />
+    <list default="true" id="829a43f8-5289-412a-8455-1f6d1e2a861f" name="Changes" comment="homework 9 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,25 +39,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/alex/IdeaProjects/june-2023-js/typecript",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/snap/intellij-idea-ultimate/449/plugins/javascript-impl/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alex/IdeaProjects/june-2023-js/typecript&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/snap/intellij-idea-ultimate/449/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/typecript" />
@@ -119,7 +116,7 @@
       <workItem from="1694258572533" duration="3313000" />
       <workItem from="1694329806035" duration="8192000" />
       <workItem from="1694622371875" duration="6824000" />
-      <workItem from="1694690017534" duration="4440000" />
+      <workItem from="1694690017534" duration="5107000" />
     </task>
     <task id="LOCAL-00001" summary="complete homework lesson1">
       <option name="closed" value="true" />
@@ -225,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694340509716</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="homework 9 complete">
+      <option name="closed" value="true" />
+      <created>1694694488624</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694694488624</updated>
+    </task>
+    <task id="LOCAL-00015" summary="homework 9 complete">
+      <option name="closed" value="true" />
+      <created>1694694778743</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694694778743</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +273,8 @@
     <MESSAGE value="homework lesson6 complete" />
     <MESSAGE value="homework typescript lesson2" />
     <MESSAGE value="homework 8 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 8 complete" />
+    <MESSAGE value="homework 9 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 9 complete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
