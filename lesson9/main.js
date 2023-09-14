@@ -130,6 +130,7 @@
 //         photo: 'https://upload.wikimedia.org/wikipedia/ru/9/9d/Maggie_Simpson.png'
 //     },
 // ];
+
 // // Проітерувати його, створиши для кожного об'єкту  масиву <div class='member'> та наповнити його данними з об'єкту.
 // for (const element of simpsons) {
 //     let div = document.createElement('div');
