@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="829a43f8-5289-412a-8455-1f6d1e2a861f" name="Changes" comment="homework 9 complete">
+    <list default="true" id="829a43f8-5289-412a-8455-1f6d1e2a861f" name="Changes" comment="sql lesson 2">
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/sql/homework/lesson2/lesson2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/mysql/homework/lesson2/lesson2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/homework/lesson1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/homework/lesson1/main.js" afterDir="false" />
@@ -171,7 +171,7 @@
       <workItem from="1696585807194" duration="225000" />
       <workItem from="1696586047279" duration="16000" />
       <workItem from="1696750633243" duration="2535000" />
-      <workItem from="1696754344768" duration="8469000" />
+      <workItem from="1696754344768" duration="8880000" />
     </task>
     <task id="LOCAL-00001" summary="complete homework lesson1">
       <option name="closed" value="true" />
@@ -317,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696185607935</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="sql lesson 2">
+      <option name="closed" value="true" />
+      <created>1696779754327</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696779754327</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,7 +361,8 @@
     <MESSAGE value="homework typescript lesson2" />
     <MESSAGE value="homework 8 complete" />
     <MESSAGE value="homework 9 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 9 complete" />
+    <MESSAGE value="sql lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql lesson 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
